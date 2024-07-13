@@ -1,0 +1,19 @@
+.cash-card {
+    background: linear-gradient(to right, #7ec5d0, #f3c621); 
+    color: white;
+    padding: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    width: 200px; 
+    text-align: center;
+}
+  
+.cash-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.cash-card p {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
